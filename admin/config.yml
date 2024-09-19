@@ -9,7 +9,7 @@ public_folder: "/img" # URL to access images
 media_library:
   name: uploadcare
   config:
-    publicKey: "e4f95a10de6585cb095c"
+    publicKey: "c514ba62d579713ee07e"
     multiple: true
     previewStep: false
 
